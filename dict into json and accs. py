@@ -1,0 +1,9 @@
+# import json
+# a={"key1":"value1","key2":"value2"}
+# b=json.dumps(a)
+# print(b)
+
+# import json
+# a={"key1":"value1","key2":"value2"}
+# b=json.dumps(a)
+# print(a["key2"])

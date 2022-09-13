@@ -1,0 +1,25 @@
+{
+ "user": [
+  {
+   "Username": "Onring",
+   "Password": "Onring@1",
+   "Profile": {
+    "Bio": "The name",
+    "Gender": "Female",
+    "DOB": "2-3-4"
+   }
+  }
+ ]
+}{
+ "user": [
+  {
+   "Username": "onring",
+   "Password": "Onring@1",
+   "Profile": {
+    "Bio": "i",
+    "Gender": "m",
+    "DOB": "6"
+   }
+  }
+ ]
+}
